@@ -2,7 +2,9 @@
 <h3 align="center">2nd year Computer Science student</h3>
 
 
-- 🔭 I’m currently working on [Simple Todo](https://github.com/arif599/Todo-Terminal)
+- 🔭 I’m currently working on... 
+
+<a href="https://github.com/arif599/Todo-Terminal"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=arif599&repo=Todo-Terminal" width=350> </a> 
 
 - 🌱 I’m currently learning **Python, Flask, Data Structures and Algorithms**
 
