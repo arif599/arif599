@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on... 
 
 <a href="https://github.com/arif599/Todo-Terminal"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=arif599&repo=Todo-Terminal" width=350> </a> 
-<a href="https://github.com/arif599/Hangman"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=arif599&repo=Hangman" width=350> </a> 
+<a href="https://github.com/arif599/Hangman"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=arif599&repo=Hangman" width=350> </a>
+<a href="https://github.com/arif599/Rock-Paper-Scissors"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=arif599&repo=Rock-Paper-Scissors" width=350> </a> 
 
 - 🌱 I’m currently learning **Python, Flask, Data Structures and Algorithms**
 
