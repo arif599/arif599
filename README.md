@@ -18,6 +18,7 @@
 
 
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arif599&show_icons=true&locale=en" width=420 alt="arif599" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arif599&show_icons=true&locale=en&layout=compact" height=165 alt="arif599" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arif599&show_icons=true&locale=en" width=420 alt="arif599" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arif599&show_icons=true&locale=en&layout=compact" height=165 alt="arif599" />
 &nbsp;
 </p>
