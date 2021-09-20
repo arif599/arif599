@@ -1,8 +1,6 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Arif</h1>
 <h3 align="center">3rd year Computer Science student</h3>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arif599&show_icons=true&locale=en" width=420 alt="arif599" />
-</p>
+
 
 - 🔭 I’m currently working on... 
 
@@ -20,3 +18,6 @@
 
 
 
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arif599&show_icons=true&locale=en" width=420 alt="arif599" />
+</p>
